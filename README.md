@@ -20,3 +20,7 @@ https://milano-patel.github.io/movie-seat-booking/
 Credit: Created while Learning the Javascript from Brad Traversy's Udemy Course: https://www.udemy.com/course/web-projects-with-vanilla-javascript/
 
 Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
+
+## Screenshot:
+
+![UI-Screenshot](images/movie-ticket-booking-ui.png)
