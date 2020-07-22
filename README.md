@@ -2,6 +2,10 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
+## Live Preview 
+
+https://milano-patel.github.io/movie-seat-booking/
+
 ## Project Specifications
 
 - Display UI with movie select, screen, seats, legend & seat info
